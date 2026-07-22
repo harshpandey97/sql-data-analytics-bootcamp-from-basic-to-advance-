@@ -1,176 +1,141 @@
-<div align="center">
+# 📊 Data Analytics Bootcamp — Learning Journey
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1F4E78&height=200&section=header&text=SQL%20Bootcamp%20Journey&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=60%20Days%20of%20Hands-on%20SQL%20%7C%20Data%20Analytics%20Portfolio&descAlignY=55&descSize=18" width="100%"/>
+Tracking my progress through a complete Data Analytics bootcamp covering **Excel → SQL → Python → Power BI**, from fundamentals to advanced, real-world projects.
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=1F4E78&center=true&vCenter=true&width=600&lines=CREATE+DATABASE+DEPARTMENT_NEW%3B;INSERT+INTO+Professors+VALUES(...)%3B;SELECT+*+FROM+MyDataAnalyticsJourney%3B;JOIN+Determination+ON+Consistency%3B" alt="Typing SVG" />
-</a>
-
-<br/>
-
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![SSMS](https://img.shields.io/badge/SSMS-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge)
-![Days](https://img.shields.io/badge/Bootcamp-Day%2025%2F60-brightgreen?style=for-the-badge)
-
-![Profile Views](https://komarev.com/ghpvc/?username=harshpandey97&label=Repo%20Views&color=1F4E78&style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/harshpandey97/sql-bootcamp-journey?style=flat-square&color=blue)
-![Repo Size](https://img.shields.io/github/repo-size/harshpandey97/sql-bootcamp-journey?style=flat-square&color=orange)
-
-</div>
+<p align="left">
+  <a href="https://www.linkedin.com/in/harsh-pandey-395a10237">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:harshpandey6012@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" alt="Email"/>
+  </a>
+  <a href="https://github.com/harshpandey97">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 
-## 📌 About This Repo
+## 🧭 About This Repository
 
-This repo documents my **day-wise SQL learning journey** — from creating my first database to importing and cleaning a real **~1 million row dataset**. Every `.sql` file here is actual, tested code that ran successfully in SQL Server Management Studio (SSMS). Part of my transition into **Data Analytics**.
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
-</div>
+This repo documents my hands-on progress through a structured bootcamp — module notes, assignment solutions, and SQL/Python scripts — as I build toward a Data Analyst role.
 
 ---
 
-## 🛠️ Tech Stack
+## 📌 Progress Tracker
 
-<div align="center">
+### ✅ Completed Modules
 
-| Tool | Purpose |
-|:---:|:---|
-| ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) | Relational database engine |
-| ![SSMS](https://img.shields.io/badge/-SSMS-0078D4?style=flat-square&logo=microsoft&logoColor=white) | Query execution & database management |
-| ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) | Data source / reporting |
-| ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) | Version control & portfolio |
+| Module | Topic | Duration | Lectures |
+|---|---|---|---|
+| 13 | SQL Introduction | 12m | 1/1 ✅ |
+| 14 | Installation & Getting Started | 4m 52s | 1/1 ✅ |
+| 15 | Database Basics | 18m 32s | 3/3 ✅ |
+| 16 | Fundamental SQL Statements | 2h 15m | 12/12 ✅ |
+| 17 | Restore and Backup | 29m 25s | 3/3 ✅ |
+| 18 | Selection Commands: Filtering | 26m 56s | 3/3 ✅ |
+| 19 | Selection Commands: Ordering | 18m 40s | 3/3 ✅ |
+| 20 | Aliasing | 5m 17s | 1/1 ✅ |
+| 21 | Aggregate Commands | 23m 48s | 4/4 ✅ |
+| 22 | GROUP BY | 20m 1s | 2/2 ✅ |
+| 23 | Conditional Statements | 7m 52s | 1/1 ✅ |
+| 24 | JOINS | 1h 10m | 11/11 ✅ |
+| 25 | Subqueries | 20m 21s | 3/3 ✅ |
+| 26 | Views and Indexes | 20m 3s | 2/2 ✅ |
+| 27 | String Functions | 31m 17s | 7/7 ✅ |
+| 28 | Mathematical Functions | 22m 53s | 4/4 ✅ |
+| 29 | Date/Time Functions | 15m 39s | 3/3 ✅ |
 
-**Dataset used:** [Online Retail II](https://archive.ics.uci.edu/dataset/502/online+retail+ii) — ~1.06 million rows
+### 🔄 In Progress
 
-</div>
+| Module | Topic | Duration | Lectures |
+|---|---|---|---|
+| 30 | Pattern (String) Matching | 24m 33s | 1/3 🔄 |
 
----
+### ⏳ Pending
 
-## 📊 Progress Tracker
+| Module | Topic | Duration | Lectures |
+|---|---|---|---|
+| 31 | Window Functions | 1h 27m | 0/10 |
+| 32 | Data Type Conversion Functions | — | — |
 
-<div align="center">
+### 📝 Assignments
 
-```
-Basic          ████████████████████ 100%  ✅ Done
-Intermediate   ██████░░░░░░░░░░░░░░  30%  🟡 In Progress
-Advanced       ░░░░░░░░░░░░░░░░░░░░   0%  🔴 Planned
-```
-
-</div>
-
-### ✅ Completed
-- [x] Database & Table Design (DDL) — `CREATE DATABASE`, `CREATE TABLE`, `PRIMARY KEY`, `FOREIGN KEY`
-- [x] Schema modification — `ALTER TABLE` (ADD / DROP COLUMN)
-- [x] Data Manipulation (DML) — `INSERT`, `UPDATE`, `DELETE`
-- [x] Filtering & Querying — `WHERE`, `DISTINCT`, `AND` / `OR` / `NOT`
-- [x] Keys — Primary, Foreign, Candidate, Alternate, Composite, Unique, Super, Surrogate
-- [x] SQL command categories — DDL, DML, DCL, TCL
-- [x] Real-world data import — SQL Server Import/Export Wizard, ~1.06M row CSV
-- [x] Data cleaning — fixing `varchar` vs numeric type mismatches (`CAST`, `TRY_CAST`)
-
-### 🟡 In Progress / Next Up
-- [ ] `ORDER BY` — sorting results
-- [ ] Aggregate functions — `COUNT`, `SUM`, `AVG`, `MIN`, `MAX`
-- [ ] `GROUP BY` + `HAVING`
-- [ ] `JOIN`s — INNER, LEFT, RIGHT, FULL
-- [ ] `LIKE`, `IN`, `BETWEEN`, `NULL` handling
-- [ ] `UNION` / `UNION ALL`
-
-### 🔴 Planned (Advanced)
-- [ ] Subqueries
-- [ ] Views
-- [ ] Stored Procedures & User-defined Functions
-- [ ] Window Functions (`ROW_NUMBER()`, `RANK()`, `PARTITION BY`)
-- [ ] CTEs (`WITH` clause)
-- [ ] Indexes & query optimization
-- [ ] Triggers
-- [ ] TCL in practice — `BEGIN TRANSACTION`, `COMMIT`, `ROLLBACK`
-- [ ] DCL in practice — `GRANT`, `REVOKE`
+| Assignment | Topic | Status |
+|---|---|---|
+| Assignment 4 | Fundamental SQL Statements | ✅ Shared / Reward Unlocked |
+| Assignment 5 | Selection Commands: Filtering & Ordering | ⏳ Pending |
+| Assignment 6 | GROUP BY & Conditional Statements | ⏳ Pending |
+| Assignment 7 | Joins | ⏳ Pending |
+| Assignment 8 | Subqueries & Views | ⏳ Pending |
+| Assignment 9 | Date and Time Functions | ⏳ Pending |
+| Assignment 10 | Pattern (String) Matching | ⏳ Pending |
 
 ---
 
-## 📁 Repo Structure
+## 🛠 Tech Stack So Far
 
-```
-sql-bootcamp-journey/
-├── README.md
-├── Day01-05_DDL_Basics/
-│   ├── 01_create_database.sql
-│   ├── 02_create_tables.sql
-│   ├── 03_primary_foreign_keys.sql
-│   └── notes.md
-├── Day06-10_DML_Basics/
-│   ├── 04_insert_data.sql
-│   ├── 05_update_delete.sql
-│   └── notes.md
-├── Day11-15_Filtering_Querying/
-│   ├── 06_where_distinct.sql
-│   ├── 07_logical_operators.sql
-│   └── notes.md
-├── Day16-20_Keys_Concepts/
-│   ├── 08_types_of_keys.sql
-│   └── notes.md
-├── Day21-25_Real_Data_Import/
-│   ├── 09_csv_import_project.sql
-│   ├── 10_data_cleaning_cast.sql
-│   └── notes.md
-└── screenshots/
-    ├── import_success.png
-    └── table_output.png
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+---
+
+## 📂 Repository Structure
+
+```text
+.
+├── sql/
+│   ├── module16_fundamental_statements.sql
+│   ├── module18_filtering.sql
+│   ├── module19_ordering.sql
+│   ├── module21_aggregates.sql
+│   ├── module22_groupby.sql
+│   ├── module24_joins.sql
+│   ├── module25_subqueries.sql
+│   ├── module27_string_functions.sql
+│   ├── module28_math_functions.sql
+│   ├── module29_datetime_functions.sql
+│   └── module30_pattern_matching.sql
+│
+├── assignments/
+│   ├── Assignment4_FundamentalSQL/
+│   ├── Assignment5_FilteringOrdering/
+│   ├── Assignment6_GroupByConditional/
+│   ├── Assignment7_Joins/
+│   ├── Assignment8_SubqueriesViews/
+│   ├── Assignment9_DateTime/
+│   └── Assignment10_PatternMatching/
+│
+├── notes/
+│   └── module_summaries.md
+│
+└── README.md
 ```
 
 ---
 
-## 🖼️ Screenshots
+## 🎯 Current Focus
 
-<div align="center">
-<table>
-<tr>
-<td align="center"><b>Successful ~1.06M Row Import</b></td>
-<td align="center"><b>Query Output Example</b></td>
-</tr>
-<tr>
-<td><img src="screenshots/import_success.png" width="380"/></td>
-<td><img src="screenshots/table_output.png" width="380"/></td>
-</tr>
-</table>
-
-<sub>📌 Replace these image paths with your own screenshots — just drop your <code>.png</code> files into a <code>screenshots/</code> folder in the repo and keep the same filenames, or update the paths above.</sub>
-</div>
+Working through **Module 30 — Pattern Matching (LIKE, wildcards, advanced patterns)**, then moving into **Window Functions** — one of the most important topics for analytical SQL (ranking, running totals, partitions).
 
 ---
 
-## 🧠 Key Learnings & Challenges Solved
+## 📈 Overall Progress
 
-> Real errors I hit and fixed — documented because debugging is half the skill.
+`Modules 13–29 Complete` → `Module 30 In Progress` → `Modules 31–32 Upcoming`
 
-- **Database context errors** — learned to always run `USE [DatabaseName];` before querying, and to verify with `SELECT DB_NAME();` when hitting "Invalid object name" errors.
-- **Duplicate object errors** — handled `CREATE DATABASE` / `CREATE TABLE` conflicts safely using `DROP ... IF EXISTS` and `ALTER DATABASE ... SET SINGLE_USER WITH ROLLBACK IMMEDIATE` to force-release locked databases.
-- **Primary Key violations** — understood why duplicate key inserts fail and when to use `UPDATE` instead of `INSERT`.
-- **CSV import type mismatches** — the Import/Export Wizard defaulted numeric columns to `varchar`, which broke `SUM`/aggregate queries; fixed using `CAST` and `TRY_CAST`.
-- **Malformed CSV rows** — diagnosed column-shifting caused by unescaped commas inside quoted text fields, and learned to check the *Text Qualifier* setting in the Import Wizard.
+**Estimated completion:** ~90% of the SQL portion of the bootcamp done.
 
 ---
 
-## 👤 About Me
+## 📬 Connect With Me
 
-<div align="center">
-
- MY NAME IS HARSH PANDEY BCA graduate transitioning into **Data Analytics / Data Science**, building a portfolio project by project — one query, one dataset, one error fixed at a time.
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-HERE)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshpandey97)
-
-</div>
+- 💼 **LinkedIn:** [harsh-pandey-395a10237](https://www.linkedin.com/in/harsh-pandey-395a10237)
+- 📧 **Email:** harshpandey6012@gmail.com
+- 💻 **GitHub:** [harshpandey97](https://github.com/harshpandey97)
 
 ---
 
-<div align="center">
-
-*This repo is updated as I progress through my SQL learning roadmap — Basic ✅ → Intermediate 🟡 → Advanced 🔴*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1F4E78&height=100&section=footer" width="100%"/>
-
-</div>
+*This repository is updated as I progress through the bootcamp. Feel free to explore the SQL scripts and assignment solutions, and reach out if you'd like to connect or collaborate!*
